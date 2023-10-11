@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/buildSrc" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/framework-bom" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/integration-tests" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-aop" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-aspects" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-beans" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-context" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-context-indexer" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-context-support" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-core" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-core/kotlin-coroutines" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-expression" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-instrument" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-jcl" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-jdbc" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-jms" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-messaging" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-orm" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-oxm" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-test" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-tx" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-web" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-webflux" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-webmvc" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-websocket" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.6.RELEASE/spring-z-ioc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
